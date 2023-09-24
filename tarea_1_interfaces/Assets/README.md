@@ -17,4 +17,4 @@ Aparte de todos los presentes en la escena playground, se ha incluido un jugador
 ## Apartado 7: Agregar un script que escriba en la consola los objetos que se han utilizado.
 Se puede observar la salida por consola del número de objetos con cada etiqueta.
 ## Ejecución en formato gif
-Ya que el archivo incluye unos pocos segundos de vídeo y pesa 70 MB y el máximo para poder incrustarlo en un README es 10 MB, se encuentra en un fichero aparte. Disculpe las molestias.
+![actividad-1-demostracion](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/0e2af5cc-e74e-4ce7-9739-b9318600553d)
