@@ -14,3 +14,5 @@ Se puede observar que cada objeto relevante tiene una etiqueta asociada.
 ## Apartado 6: Se deben usar prefabs de Starter FPS o Third Person
 Aparte de todos los presentes en la escena playground, se ha incluido un jugador cápsula.
 ![imagen](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/38bf0018-2514-4cbf-b5b5-515d1a222fc6)
+## Apartado 7: Agregar un script que escriba en la consola los objetos que se han utilizado.
+Se puede observar la salida por consola del número de objetos con cada etiqueta.
