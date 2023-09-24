@@ -11,7 +11,8 @@ Se ha creado un terreno con una textura y algunas modificaciones en su altura.
 ## Apartado 5: Cada objeto debe tener una etiqueta que lo identifique.
 Se puede observar en el inspector que cada objeto relevante tiene una etiqueta asociada.
 
-![imagen](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/43bb481c-1723-424e-beb0-7fff33e45d88)
+![imagen](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/b9cb4674-5918-4261-93a8-d8dce70a49d4)
+
 
 
 ## Apartado 6: Se deben usar prefabs de Starter FPS o Third Person
