@@ -16,5 +16,8 @@ Aparte de todos los presentes en la escena playground, se ha incluido un jugador
 ![imagen](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/38bf0018-2514-4cbf-b5b5-515d1a222fc6)
 ## Apartado 7: Agregar un script que escriba en la consola los objetos que se han utilizado.
 Se puede observar la salida por consola del número de objetos con cada etiqueta.
+![imagen](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/888cecc2-d6e1-4166-b09b-c682b58975bf)
+![imagen](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/1622e535-0357-4f8c-b78d-66c7e4ad5986)
+
 ## Ejecución en formato gif
 ![actividad-1-demostracion](https://github.com/Francisco-Marques-Armas/Interfaces_Inteligentes/assets/72305337/0e2af5cc-e74e-4ce7-9739-b9318600553d)
